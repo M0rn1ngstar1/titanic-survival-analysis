@@ -4,6 +4,16 @@ Exploratory Data Analysis and Feature Engineering on the Titanic dataset to unco
 
 This project focuses on structured data cleaning, insight extraction, and engineered feature development to prepare for predictive modeling.
 
+---
+
+## Installation
+
+Install required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 📌 Project Overview
 
 This project performs an in-depth **Exploratory Data Analysis (EDA)** and **Feature Engineering** on the Titanic dataset.
@@ -178,6 +188,7 @@ titanic-eda-feature-engineering/
 │   ├── age_by_survival.png
 │   └── survival_by_family_size.png
 │
+├── requirements.txt
 └── README.md             # Project documentation
 ```
 
